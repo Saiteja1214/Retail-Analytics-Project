@@ -1,0 +1,53 @@
+================================================================================
+RETAIL ANALYTICS - EXECUTIVE SUMMARY
+================================================================================
+
+Report Generated: 2026-02-19 13:56:46
+
+DATA OVERVIEW
+--------------------------------------------------------------------------------
+Total Records: 407,695
+Total Revenue: $8,832,003.27
+Total Transactions (Invoices): 19,215
+Active Customers: 4,314
+Products: 4,017
+Countries: 37
+
+
+SALES METRICS
+--------------------------------------------------------------------------------
+Average Transaction Value: $21.66
+Median Transaction Value: $11.90
+Average Order Quantity: 13.59 units
+Average Unit Price: $3.29
+
+
+CUSTOMER ANALYTICS
+--------------------------------------------------------------------------------
+Average Customer Value: $2,047.29
+Highest Customer Spending: $349,164.35
+Lowest Customer Spending: $0.00
+High-Value Customers (>$5000): 287 (6.7%)
+
+
+TOP 5 PRODUCTS BY REVENUE
+--------------------------------------------------------------------------------
+1. WHITE HANGING HEART T-LIGHT HOLDER: $151,624.31
+2. REGENCY CAKESTAND 3 TIER: $143,893.35
+3. Manual: $98,560.64
+4. ASSORTED COLOUR BIRD ORNAMENT: $70,493.83
+5. JUMBO BAG RED RETROSPOT: $51,759.30
+
+
+TOP 5 COUNTRIES BY REVENUE
+--------------------------------------------------------------------------------
+1. United Kingdom: $7,414,755.96
+2. EIRE: $356,085.21
+3. Netherlands: $268,786.00
+4. Germany: $202,395.32
+5. France: $146,215.42
+
+
+DATA COVERAGE
+--------------------------------------------------------------------------------
+Date Range: 2009-12-01 to 2010-12-09

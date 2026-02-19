@@ -1,0 +1,34 @@
+
+================================================================================
+ACTIONABLE INSIGHTS & RECOMMENDATIONS
+================================================================================
+
+1. CUSTOMER SEGMENTATION STRATEGY
+--------------------------------------------------------------------------------
+   - Focus retention efforts on Cluster 1 (VIP customers)
+   - Implement loyalty programs for high-value customers
+   - Create upselling strategies for regular customers
+
+2. PRODUCT BUNDLING
+--------------------------------------------------------------------------------
+   - Use association rules to create product bundles
+   - Cross-sell related products based on purchase patterns
+   - Example: Bundle wooden frames with picture frames
+
+3. PRICING OPTIMIZATION
+--------------------------------------------------------------------------------
+   - Price elasticity analysis shows quantity-price relationship
+   - Test dynamic pricing for high-demand products
+   - Consider volume discounts to increase transaction size
+
+4. GEOGRAPHIC EXPANSION
+--------------------------------------------------------------------------------
+   - Focus on top 5 countries (concentrated revenue)
+   - Investigate low-performing countries for growth potential
+   - Tailor marketing by regional preferences
+
+5. SALES FORECASTING
+--------------------------------------------------------------------------------
+   - Regression model achieves ~49% prediction accuracy
+   - Collect more features for better predictions
+   - Consider seasonal patterns in forecasting

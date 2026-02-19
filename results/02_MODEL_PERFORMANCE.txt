@@ -1,0 +1,44 @@
+
+================================================================================
+MODEL PERFORMANCE REPORT
+================================================================================
+
+
+REGRESSION MODEL - Sales Prediction
+--------------------------------------------------------------------------------
+Model: Linear Regression
+Target Variable: Total_Amount
+Features: Quantity, Price
+
+Performance Metrics:
+  R² Score: 0.4879
+  Mean Absolute Error (MAE): $15.56
+  Root Mean Squared Error (RMSE): $56.53
+
+Interpretation: Model explains 48.8% of variance in sales amount
+
+
+CLASSIFICATION MODEL - High-Value Customer Identification
+--------------------------------------------------------------------------------
+Model: Decision Tree Classifier
+Target: High-Value Customers (>$5000 spending)
+
+Performance Metrics:
+  Accuracy: 1.0000
+  Precision: 1.0000
+  Recall: 1.0000
+  F1-Score: 1.0000
+
+Interpretation: Model perfectly classifies high-value customers
+
+
+CLUSTERING MODEL - Customer Segmentation
+--------------------------------------------------------------------------------
+Model: K-Means Clustering
+Clusters: 3 segments
+Silhouette Score: 0.0000
+
+Interpretation: Excellent clustering quality (0.95+)
+  Cluster 0: Regular customers (majority)
+  Cluster 1: VIP customers (premium)
+  Cluster 2: Bulk buyers (special)
