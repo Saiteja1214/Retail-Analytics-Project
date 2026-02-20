@@ -801,7 +801,7 @@ database: RetailDW
            Time_Dim
               |
               |
-Sales_Fact --|--Customer_Dim
+Sales_Fact  --|--Customer_Dim
               |
               |
           Product_Dim

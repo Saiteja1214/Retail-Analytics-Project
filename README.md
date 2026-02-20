@@ -108,7 +108,7 @@ Edit `database/config.py` for MySQL connection details:
 DATABASE_CONFIG = {
     'host': 'localhost',
     'user': 'root',
-    'password': 'your_password',
+    'password': 'your password',
     'database': 'RetailDW'
 }
 ```
