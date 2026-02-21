@@ -58,7 +58,7 @@ class DataCleaner:
         print(f"[OK] Removed {initial_count - len(self.df)} rows with negative quantities")
         
         # Convert InvoiceDate to datetime
-        self.df['InvoiceDate'] = pd.to_datetime(self.df['InvoiceDate'])
+        self.df['InvoiceDate'] = pd.to_datetime(self.df['InvoiceDate'], format='%d-%m-%Y %H:%M')
         print("[OK] Converted InvoiceDate to datetime")
         
         # Calculate total amount if not exists
